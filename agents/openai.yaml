@@ -1,0 +1,4 @@
+interface:
+  display_name: "多维穿搭测试"
+  short_description: "通过问卷或本人照片，结合肤色、比例、脸部线条与风格目标给出穿搭建议"
+  default_prompt: "使用 $outfit-profile 帮我做一次穿搭测试，让我选择问卷、照片分析或混合模式，并给出适合日常场景的搭配。"
